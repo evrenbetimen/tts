@@ -1,3 +1,4 @@
+pip>=25.0.1
 streamlit==1.28.0
 TTS==0.21.0
 numpy==1.23.5
